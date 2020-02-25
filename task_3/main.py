@@ -8,7 +8,7 @@ import twurl
 from folium.plugins import FloatImage
 from opencage.geocoder import OpenCageGeocode
 
-key = '952ba00d94cd46a588b58f0c664a940e'
+key = ''
 geocoder = OpenCageGeocode(key)
 
 
