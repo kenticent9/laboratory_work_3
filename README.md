@@ -2,7 +2,7 @@
 
 Laboratory work 3 tasks.
 
-**ATTENTION:** Both task 2 and taks 3 need Twitter API keys, which you must enter in task_2\hidden.py and task_3\hidden.py modules correspondingly, in order to work, task 3 also need OpenGage API key, which you must enter in task_3\main.py module. They were deleted from the source code for security reasons. .
+**ATTENTION:** Both task 2 and taks 3 need Twitter API keys, which you must enter in task_2\hidden.py and task_3\hidden.py modules correspondingly, in order to work, task 3 also need OpenGage API key, which you must enter in task_3\main.py module. You can enter yours or ask for them yasinovskyi@ucu.edu.ua They were deleted from the source code for security reasons.
 
 ## Task 2
 
