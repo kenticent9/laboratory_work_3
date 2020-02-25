@@ -53,7 +53,7 @@ def format_data(unformatted_data: tuple) -> dict:
 
 
 def write_data(data: dict, file_name: str) -> None:
-    """Writes data to a new json file."""
+    """Writes formatted data to a new json file."""
     with open(file_name, "w+", encoding="utf-8") as write_file:
         json.dump(data, write_file, indent=4, ensure_ascii=False)
         # ensure_ascii=False so cyrillic characters are displayed properly
